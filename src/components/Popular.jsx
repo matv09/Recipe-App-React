@@ -1,6 +1,6 @@
 function Popular() {
   return (
-    <div>Popular</div>
+    <div>Populars</div>
   )
 }
 
